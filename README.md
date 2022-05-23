@@ -1,4 +1,4 @@
-# emotic_dl
+# Emotic_with_attention
 
 ### Data preprocessing
 
